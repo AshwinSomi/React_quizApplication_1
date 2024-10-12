@@ -1,5 +1,5 @@
 function App() {
-  return <div>udemy_proj_1</div>;
+  return <div>App directory</div>;
 }
 
 export default App;
